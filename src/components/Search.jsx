@@ -63,7 +63,7 @@ test.length > 0 ?
 
 (
 
-  <p className="no-results">Aucune recette trouvée.</p>
+  <p className="no-results">Il n'y a pas de recettes correspondantes...</p>
 )
 
                     
